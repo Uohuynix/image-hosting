@@ -1,1 +1,1 @@
-# image-hosting
+This is my private image repository
